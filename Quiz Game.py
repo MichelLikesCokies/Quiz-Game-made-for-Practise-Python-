@@ -3,8 +3,6 @@ import keyboard #Imported for Pausing syntax for testing purpose
 import os #Imported for clearing above outputs by os.system('cls')
 import random #Imported for ramdomizing question list
 
-def introo():
- intro = True
 intro = True
 
 while intro:
